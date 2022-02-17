@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SunflowerBopBack.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sunflower bop 20000" x="10" y="10" width="380" height="388" frameX="-2" frameY="-28" frameWidth="382" frameHeight="416"/>
+</TextureAtlas>
