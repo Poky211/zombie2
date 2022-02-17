@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DangerScreen.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Danger Tick Loop0000" x="0" y="0" width="1924" height="1473" frameX="0" frameY="0" frameWidth="1984" frameHeight="1491"/>
+</TextureAtlas>
